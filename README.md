@@ -6,6 +6,6 @@ Here is the link. http://research.stlouisfed.org/fred2/series/CAYOLO3URN
 
 ##Time Series Analysis
 Detailed analysis can be found in UnemploymentRateAnalysis.pdf.
-R Code can be found in TimeSeriesAnalysis.R
+R code can be found in TimeSeriesAnalysis.R
 
 
